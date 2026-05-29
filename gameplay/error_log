@@ -1,0 +1,13 @@
+[04-Jul-2023 11:59:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/maxwinmy/public_html/gameplay/PragmaticPlay.php on line 38
+[04-Jul-2023 11:59:13 Asia/Jakarta] PHP Warning:  Undefined array key "description" in /home/maxwinmy/public_html/gameplay/PragmaticPlay.php on line 157
+[04-Jul-2023 12:23:14 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/maxwinmy/public_html/gameplay/PragmaticPlay.php on line 38
+[04-Jul-2023 12:23:16 Asia/Jakarta] PHP Warning:  Undefined array key "description" in /home/maxwinmy/public_html/gameplay/PragmaticPlay.php on line 157
+[02-Jun-2024 02:50:08 Asia/Jakarta] PHP Notice:  Undefined variable: game_code in /home/ruby303/public_html/config/class_softgaming.php on line 30
+[02-Jun-2024 02:50:11 Asia/Jakarta] PHP Notice:  Undefined variable: game_code in /home/ruby303/public_html/config/class_softgaming.php on line 30
+[26-Jul-2024 05:04:45 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/gameplay/session.php on line 19
+[26-Jul-2024 05:04:45 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/gameplay/session.php on line 20
+[26-Jul-2024 05:04:45 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/gameplay/session.php on line 21
+[26-Jul-2024 05:04:45 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/gameplay/session.php on line 29
+[26-Jul-2024 05:04:45 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/gameplay/opengame.php on line 3
+[29-Jul-2024 03:47:22 Asia/Jakarta] PHP Notice:  Undefined index: providercode in /home/jasawebkuduabiz/public_html/gameplay/opengame.php on line 5
+[29-Jul-2024 04:53:17 Asia/Jakarta] PHP Notice:  Undefined index: providercode in /home/jasawebkuduabiz/public_html/gameplay/opengame.php on line 5

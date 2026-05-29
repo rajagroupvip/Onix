@@ -1,0 +1,20 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /blog
+RewriteRule ^(.*)/$ $1.php [L]
+
+    # Untuk menghilangkan ekstensi .php
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}.php -f
+    RewriteRule ^([^\.]+)/?$ $1.php [NC,L]
+
+    # Untuk menghilangkan ekstensi .html
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}.html -f
+    RewriteRule ^([^\.]+)/?$ $1.html [L]
+
+    # Menangani kasus jika file tidak ditemukan
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^([^\.]+)/?$ 404.php [L]
+</IfModule>
+ErrorDocument 404 /404.php

@@ -1,0 +1,54 @@
+[06-Apr-2024 17:19:57 Asia/Jakarta] PHP Notice:  Undefined variable: userID in /home/cekopnzz/public_html/m/account/history.php on line 137
+[06-Apr-2024 17:20:01 Asia/Jakarta] PHP Notice:  Undefined variable: userID in /home/cekopnzz/public_html/m/account/history.php on line 137
+[06-Apr-2024 10:48:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/cekopnzz/public_html/m/account/qris.php on line 18
+[06-Apr-2024 10:49:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/cekopnzz/public_html/m/account/qris.php on line 18
+[06-Apr-2024 10:49:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/cekopnzz/public_html/m/account/qris.php on line 18
+[06-Apr-2024 10:49:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/cekopnzz/public_html/m/account/qris.php on line 18
+[06-Apr-2024 10:49:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/cekopnzz/public_html/m/account/qris.php on line 18
+[06-Apr-2024 10:49:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/cekopnzz/public_html/m/account/qris.php on line 18
+[06-Apr-2024 10:49:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/cekopnzz/public_html/m/account/qris.php on line 18
+[06-Apr-2024 10:49:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/cekopnzz/public_html/m/account/qris.php on line 18
+[06-Apr-2024 10:49:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/cekopnzz/public_html/m/account/qris.php on line 18
+[06-Apr-2024 10:49:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/cekopnzz/public_html/m/account/qris.php on line 18
+[07-Apr-2024 21:33:12 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/ettuooyx/public_html/m/account/qris.php on line 31
+[07-Apr-2024 21:34:21 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/ettuooyx/public_html/m/account/qris.php on line 31
+[07-Apr-2024 21:46:52 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/ettuooyx/public_html/m/account/qris.php on line 31
+[07-Apr-2024 21:47:04 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/ettuooyx/public_html/m/account/qris.php on line 31
+[07-Apr-2024 21:53:50 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/ettuooyx/public_html/m/account/qris.php on line 31
+[07-Apr-2024 21:59:16 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/ettuooyx/public_html/m/account/qris.php on line 31
+[07-Apr-2024 22:12:44 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/ettuooyx/public_html/m/account/qris.php on line 31
+[26-Jul-2024 04:59:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 170
+[26-Jul-2024 04:59:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 171
+[26-Jul-2024 04:59:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 172
+[26-Jul-2024 04:59:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 173
+[26-Jul-2024 04:59:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 602
+[26-Jul-2024 04:59:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 603
+[26-Jul-2024 04:59:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 604
+[26-Jul-2024 04:59:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 605
+[26-Jul-2024 04:59:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 620
+[26-Jul-2024 04:59:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 170
+[26-Jul-2024 04:59:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 171
+[26-Jul-2024 04:59:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 172
+[26-Jul-2024 04:59:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 173
+[26-Jul-2024 04:59:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 602
+[26-Jul-2024 04:59:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 603
+[26-Jul-2024 04:59:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 604
+[26-Jul-2024 04:59:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 605
+[26-Jul-2024 04:59:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 620
+[26-Jul-2024 04:59:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 170
+[26-Jul-2024 04:59:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 171
+[26-Jul-2024 04:59:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 172
+[26-Jul-2024 04:59:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 173
+[26-Jul-2024 04:59:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 602
+[26-Jul-2024 04:59:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 603
+[26-Jul-2024 04:59:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 604
+[26-Jul-2024 04:59:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 605
+[26-Jul-2024 04:59:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasawebkuduabiz/public_html/m/header.php on line 620
+[27-Jul-2024 16:10:16 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/jasawebkuduabiz/public_html/m/account/qris.php on line 31
+[27-Jul-2024 17:09:49 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/jasawebkuduabiz/public_html/m/account/qris.php on line 31
+[02-Aug-2024 12:26:51 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/jasawebkuduabiz/public_html/m/account/qris.php on line 31
+[02-Aug-2024 12:26:51 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/jasawebkuduabiz/public_html/m/account/qris.php on line 31
+[02-Aug-2024 16:05:13 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/jasawebkuduabiz/public_html/m/account/qris.php on line 31
+[10-Aug-2024 23:17:12 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/jasawebkuduabiz/public_html/m/account/qris.php on line 31
+[10-Aug-2024 23:17:41 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/jasawebkuduabiz/public_html/m/account/qris.php on line 31
+[19-Aug-2024 10:29:11 Asia/Jakarta] PHP Notice:  Undefined variable: ip in /home/jasawebkuduabiz/public_html/m/account/qris.php on line 31
