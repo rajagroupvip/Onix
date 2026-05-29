@@ -2,9 +2,9 @@
 
 // Koneksi ke database
 $host = 'localhost'; // Sesuaikan dengan host database Anda
-$dbname = 'mpo'; // Sesuaikan dengan nama database Anda
-$username = 'mpo'; // Sesuaikan dengan username database Anda
-$password = 'mpo'; // Sesuaikan dengan password database Anda
+$dbname = 'seobjatg_seobjatg'; // Sesuaikan dengan nama database Anda
+$username = 'seobjatg_seobjatg'; // Sesuaikan dengan username database Anda
+$password = 'vuAQXZFkrSNP'; // Sesuaikan dengan password database Anda
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
